@@ -1,1 +1,1 @@
-# Codsoft3
+This Java code simulates an ATM interface. It first creates a bank account with an initial balance. Then, it presents a menu for actions like deposit, withdrawal, or checking the balance. Based on user input, it performs the selected action, updating the account balance accordingly. This continues until the user chooses to exit.
